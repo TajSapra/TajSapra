@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TajSapra)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Taj Sapra's Stats" src="https://github-readme-stats.vercel.app/api?username=TajSapra&showicons=true&hide_border=true" />
