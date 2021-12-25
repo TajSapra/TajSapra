@@ -24,7 +24,8 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="Taj | LinkedIn" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />][gmail1]
+[<img align="left" alt="Taj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />][gmail1]
 [<img align="left" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />][gmail2]
 <br/>
 <br/>
