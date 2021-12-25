@@ -25,9 +25,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Taj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" style="position:relative; left:0;" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" /> sapra.taj@gmail.com
+<img align="left" style="position:relative; left:0;" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" /> 
+<br/>
+sapra.taj@gmail.com
+<br/>
 tajsapra_2k19se132@dtu.ac.in
+[<img align="left" alt="Taj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 <br/>
 
