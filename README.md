@@ -31,9 +31,9 @@
 <br/>
 
 [<img align="left" alt="Taj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-https://www.linkedin.com/in/taj-sapra-aa4015186/
 <br/>
 <br/>
 
 <img align="left" alt="Taj Sapra's Stats" src="https://github-readme-stats.vercel.app/api?username=TajSapra&showicons=true&hide_border=true" />
-
 [linkedin]: https://www.linkedin.com/in/taj-sapra-aa4015186/
