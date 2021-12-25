@@ -24,14 +24,12 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="Taj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />][gmail1]
-[<img align="left" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />][gmail2]
+-[<img align="left" alt="Taj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-<img align="left" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" /> sapra.taj@gmail.com
+-[<img align="left" alt="Taj | gmail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" /> tajsapra_2k19se132@dtu.ac.in
 <br/>
 <br/>
 
 <img align="left" alt="Taj Sapra's Stats" src="https://github-readme-stats.vercel.app/api?username=TajSapra&showicons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/taj-sapra-aa4015186/
-[gmail1]: sapra.taj@gmail.com
-[gmail2]: tajsapra_2k19se132@dtu.ac.in
