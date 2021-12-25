@@ -35,4 +35,5 @@
 <br/>
 
 <img align="left" alt="Taj Sapra's Stats" src="https://github-readme-stats.vercel.app/api?username=TajSapra&showicons=true&hide_border=true" />
+
 [linkedin]: https://www.linkedin.com/in/taj-sapra-aa4015186/
