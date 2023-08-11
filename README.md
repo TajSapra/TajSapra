@@ -1,6 +1,6 @@
 # Hi there, I am Taj Sapra
 
-## I am a 3rd year student at DTU(Branch: Software Engineering)
+## I am a Software Engineer at Housing.com(REA India). I did my undergrad from Delhi Technological University.
 
 ### My skills
 
