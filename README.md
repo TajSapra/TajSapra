@@ -1,6 +1,6 @@
 # Hi there, I am Taj Sapra
 
-## I am a Software Engineer at Housing.com(REA India). I did my undergrad from Delhi Technological University.
+## I am a Senior Software Engineer at Keysight Technologies(NYSE:KEYS). Past work experience includes 1.5 years at Housing.com(REA India) as a Software Engineer. I did my undergrad from Delhi Technological University.
 
 ### My skills
 
